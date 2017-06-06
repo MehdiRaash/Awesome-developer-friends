@@ -1,5 +1,5 @@
 # Awesome-developer-friends
-They are people we can learn from
+They are people which people can learn from
 
 ## Contents
 
