@@ -1,7 +1,7 @@
 # Awesome-developer-friends
 They are people which people can learn from
 
-## Contents
+## JavaScript developers
 
 - [English content]
 
