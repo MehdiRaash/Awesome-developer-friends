@@ -10,6 +10,7 @@ They are people which people can learn from
   - [Joshua Austill](https://github.com/jlaustill)  - JavaScript, Node.js. [blog](https://jlaustill.github.io)
   - [Axel Rauschmayer](https://github.com/rauschma)  - JavaScript, author. [blog](http://dr-axel.de/)
   - [David Walsh](https://github.com/darkwing)  - JavaScript. [blog](https://davidwalsh.name/) 
+  - [Afshin Mehrabani](https://github.com/afshinm)  - JavaScript. [blog](http://afshinm.name/) 
   - [Sallar Kaboli](https://github.com/sallar) - JavaScript, Swift, PHP. [blog](https://sallar.me/)
   - [Ardalan Naghshineh](https://github.com/ardalann) - JavaScript, mobile-app development. [blog](http://ardalan.me)
 
