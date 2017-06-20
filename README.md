@@ -12,6 +12,7 @@ They are people which people can learn from
   - [David Walsh](https://github.com/darkwing)  - JavaScript. [blog](https://davidwalsh.name/) 
   - [Afshin Mehrabani](https://github.com/afshinm)  - JavaScript. [blog](http://afshinm.name/) 
   - [Addy Osmani](https://github.com/addyosmani)  - JavaScript. [blog](https://addyosmani.com/) 
+  - [Rob Dodson](https://github.com/robdodson)  - Web developer. [blog](https://robdodson.me/) 
   - [Sallar Kaboli](https://github.com/sallar) - JavaScript, Swift, PHP. [blog](https://sallar.me/)
   - [Ardalan Naghshineh](https://github.com/ardalann) - JavaScript, mobile-app development. [blog](http://ardalan.me)
 
