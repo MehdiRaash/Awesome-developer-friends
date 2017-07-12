@@ -15,4 +15,7 @@ They are people which people can learn from
   - [Rob Dodson](https://github.com/robdodson)  - Web developer. [blog](https://robdodson.me/) 
   - [Sallar Kaboli](https://github.com/sallar) - JavaScript, Swift, PHP. [blog](https://sallar.me/)
   - [Ardalan Naghshineh](https://github.com/ardalann) - JavaScript, mobile-app development. [blog](http://ardalan.me)
+  - [Rob Dodson](https://github.com/robdodson) - JavaScript, Polymer project, chrome developer team. [blog](https://robdodson.me/)
+
+  
 
