@@ -17,5 +17,7 @@ They are people which people can learn from
   - [Ardalan Naghshineh](https://github.com/ardalann) - JavaScript, mobile-app development. [blog](http://ardalan.me)
   - [Rob Dodson](https://github.com/robdodson) - JavaScript, Polymer project, chrome developer team. [blog](https://robdodson.me/)
   - [Aadit m Shah]() - JavaScript [blog](http://aaditmshah.github.io)
+  - [Trent Willis]() - Web developer [blog](https://pretty-okay.com/)
+
 
 
